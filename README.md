@@ -1,6 +1,6 @@
 # AP Project - Book Store
 ## This repository was made for the final project of the advanced programing course, Fall 2023
-### In this project the goal is to make a program which  not only makes it possible for the customers to merely buy books, but also help them make wise and informative decisions about their purchase while enjoy they reading their favorite book. 
+### In this project the goal is to make a program which  not only makes it possible for the customers to merely buy books, but also help them make wise and informative decisions about their purchase while they enjoy reading their favorite book. 
 * First of all a person is able to register from the first menu in the app. To do that, they need to enter valid username and password and then hit the register button. A valid password is meant to be at least 8 characters long, have both alphabets and numbers and at least a special character.
 * After a user is registered, they can simply log in to their account afterwards, and use the services provided by the app.
 * In order to make informative purchases possible, every customer who buys a book, can write comments about that purchase and also rate the book, so that other future buyers of that book can learn from other's previous experiences. Also users who haven't bought an specific book can neither write comments about that book nor rate that book, this was done to prevent the spread of false information about our products.
